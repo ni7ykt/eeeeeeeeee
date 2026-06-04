@@ -1,0 +1,10 @@
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.csproj.AssemblyReference.cache
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.csproj.SuggestedBindingRedirects.cache
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.exe.config
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.Form1.resources
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.csproj.GenerateResource.cache
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.進階炸麥.Form1.resources
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.AssemblyInfoInputs.cache
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.AssemblyInfo.cs
+C:\Users\makma\Downloads\Debug\Debug\obj\Release\net48\進階炸麥.csproj.CoreCompileInputs.cache
